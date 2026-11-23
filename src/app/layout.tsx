@@ -9,6 +9,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
+  icons: { icon: "/logo.svg" },
   title: "Inscriptor — Inscriptions 6e à 3e",
   description: "Registre simple des élèves : prénom, nom, classe, date de naissance et inscription de 1.000 FCFA.",
 };
